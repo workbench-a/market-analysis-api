@@ -13,3 +13,10 @@
 - [ ] Application front-end in ReactJS and HighchartsJS
 
 - [ ] Test Additional Integrations
+
+
+Citations:
+#### Machine Learning Model Deployment
+https://github.com/trainindata/deploying-machine-learning-models
+#### Machine Learning Testing and Monitoring
+https://github.com/trainindata/testing-and-monitoring-ml-deployments
